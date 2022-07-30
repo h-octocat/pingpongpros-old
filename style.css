@@ -1,0 +1,28 @@
+body {
+    font-family: "Helvetica", "Arial", sans-serif;
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+
+p {
+    font-size: 15px; 
+}
+
+#centertable {
+    position: absolute;
+    left: 550px;
+}
+
+#howto {
+    position: absolute;
+    left: 550px;
+    top: 210px;
+}
+
+#gif {
+    position: absolute;
+    top: 400px;
+    left: 500px;
+}
