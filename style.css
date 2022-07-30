@@ -22,7 +22,7 @@ p {
 }
 
 .gif {
-    position: absolute;
+    position: relative;
     top: 400px;
     left: 500px;
 }
